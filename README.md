@@ -6,7 +6,7 @@ Uma aplicação web simples que permite aos usuários **visualizar imagens antes
 
 ## Preview
 
-![Exemplo de Preview](link-para-screenshot-ou-imagem-do-app.png)
+![Veja a Preview](./assets/project_preview.png)
 
 ---
 
@@ -40,6 +40,12 @@ image-preview/
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/seu-usuario/image-preview.git
+git clone https://github.com/seu-usuario/image_preview.git
+```
+2. **Abra a pasta do projeto**:
+   ```bash
+   cd image_preview
+   ```
+3. **Abra o arquivo `index.html`** com Live Server. 
 
 
