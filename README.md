@@ -10,6 +10,11 @@ Uma aplicação web simples que permite aos usuários **visualizar imagens antes
 
 ---
 
+## Link da Aplicação
+![Veja o site](https://pkzim77.github.io/image_preview/)
+
+---
+
 ## Funcionalidades
 
 - Fazer upload e visualizar imagens instantaneamente.  
